@@ -8,3 +8,5 @@ wann man verkaufen sollte,
 wann man halten sollte, 
 um Geld zu verdienen. 
 
+Yi Miao
+
