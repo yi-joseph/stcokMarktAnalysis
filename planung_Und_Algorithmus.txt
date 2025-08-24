@@ -1,0 +1,6 @@
+Hier ist die Planung des Projekts und der Algorithmus des Programms
+
+Programmiersprache: C++
+Datenbank: SQLite
+Plattformunabhängig: Windows, MacOS und Linux
+
